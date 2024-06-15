@@ -55,3 +55,59 @@ header{
 } */
 
 /* Main Section  */
+/* Donate Today  */
+.main{
+    margin: 0 130px;
+}
+.donate-today{
+    margin-top: 10%;
+    text-align: center;
+ 
+}
+.donate-title{
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.donate-description{
+    color: #707070;
+    font-weight: lighter;
+    font-size: 12px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.donation-box{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+    padding: 0 150px;
+}
+.box{
+    /* margin: 5px; */
+    padding: 30px;
+    /* border: ; */
+    background-color: #FAFAFA;
+    color: #707070;
+    border: 5px;
+    font-weight: 1000;
+    font-size: 25px;
+    border-radius: 5px;
+    
+}
+.box:hover{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 1px solid;
+}
+.other-amount{
+    border: none;
+    border-bottom: 1px solid #DADADA;
+    font-size: 20px;
+    width: 90%;
+    margin: 50px;
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+}
