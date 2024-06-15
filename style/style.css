@@ -114,7 +114,7 @@ header{
 /* Section Plan  */
 
 .doante-plan{
-
+ 
 }
 .plan-section{
     display: flex;
@@ -145,4 +145,93 @@ header{
 }
 .plan-description{
     color: #707070;
+}
+ /* image Album section  */
+.image-album{
+    
+}
+.main-section{
+    /* width: 100%; */
+}
+.image-description{
+    display: flex;
+    padding: 50px 100px;
+}
+.description{
+    padding: 0 90px;
+    margin: auto 0;
+}
+.description-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin: 10px 0;
+    padding: 5px 0;
+}
+.description-para{
+    color: #707070;
+    font-size: 12px;
+    margin: 5px 0;
+    padding: 5px 0;
+}
+.image>img{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+/* Update section  */
+.get-update{
+
+}
+.update-box{
+    background-color: #FFF4D6;
+    width: 70%;
+    margin: 20px auto;
+    padding:80px 0;
+    border-radius: 1px;
+    border: none;
+    /* height: 50%; */
+
+}
+.update-content{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.update-btn{
+    width: 20%;
+    /* padding: 0; */
+    margin: 0;
+}
+.update-email{
+    width: 70%;
+    padding: 8px;
+    margin: 0; 
+    background-color: #D9D9D9; 
+    border: none;
+    border-radius: 5px;
+
+}
+
+/* Footer Section  */
+footer{
+    background-color: #0B0D17;
+    /* margin: 10px 0; */
+
+}
+.foter-title{
+    color: #FF5959;
+    font-weight: bold;
+    font-size: 25px;
+    font-family:Lobster;
+    text-align: center;
+    padding: 20px;
+}
+.foter-para{
+    color: #D9DBE1;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+
 }
