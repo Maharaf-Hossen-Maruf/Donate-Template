@@ -111,3 +111,38 @@ header{
     align-items: center;
     padding: 5px;
 }
+/* Section Plan  */
+
+.doante-plan{
+
+}
+.plan-section{
+    display: flex;
+    margin: 50px 0;
+    
+}
+.plan{
+    margin: 10px;
+    padding: 50px 40px;
+    border-radius: 5px;
+}
+.plan-1{
+    background-color: #dcecee;
+}
+.plan-2{
+    background-color: #ffe7e7;
+}
+.plan-3{
+    background-color: #f8f8e0;
+}
+.plan-icon{
+    width: 50px;
+}
+.plan-title{
+    margin: 20px 0 ;
+    font-size: 20px;
+    font-weight: 900;
+}
+.plan-description{
+    color: #707070;
+}
