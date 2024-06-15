@@ -113,9 +113,9 @@ header{
 }
 /* Section Plan  */
 
-.doante-plan{
+/* .doante-plan{
  
-}
+} */
 .plan-section{
     display: flex;
     margin: 50px 0;
@@ -147,12 +147,12 @@ header{
     color: #707070;
 }
  /* image Album section  */
-.image-album{
+/* .image-album{
     
 }
 .main-section{
-    /* width: 100%; */
-}
+    
+} */
 .image-description{
     display: flex;
     padding: 50px 100px;
@@ -180,9 +180,9 @@ header{
 }
 
 /* Update section  */
-.get-update{
+/* .get-update{
 
-}
+} */
 .update-box{
     background-color: #FFF4D6;
     width: 70%;
